@@ -6,6 +6,8 @@
 
 🎯 **Learning:** CyberArk PAM · Windows AD DS
 
+🤝 **Volunteer:** [IT Education Nepal](https://iteducationnepal.org/)
+
 💼 **Work:** Associate – Network & Security at Digital Network Solution (DNS), Kathmandu
 
 ---
