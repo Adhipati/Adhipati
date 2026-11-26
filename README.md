@@ -3,7 +3,9 @@
 ### Associate Network and Security Engineer
 
 📡 **Building:** A multi-branch enterprise network home lab (VMware, PNETLab, Cisco, FortiGate, Wireshark)
+
 🎯 **Learning:** CyberArk PAM · Windows AD DS
+
 💼 **Work:** Associate – Network & Security at Digital Network Solution (DNS), Kathmandu
 
 ---
